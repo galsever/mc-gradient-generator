@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fb867a4-3c01-4b0f-b6fb-4ec784d82701" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/components/colored-text.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/gradient-input.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/theme-provider.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/logic/characters.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/logic/gradient.ts" afterDir="false" />
+    <list default="true" id="5fb867a4-3c01-4b0f-b6fb-4ec784d82701" name="Changes" comment="chore: init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +22,12 @@
     &quot;assignee&quot;: &quot;galsever&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/saasery/empty.git&quot;,
-    &quot;accountId&quot;: &quot;de7a9031-b00f-4557-9c41-1ca95f680cbf&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/galsever/mc-gradient-generator.git",
+    "accountId": "de7a9031-b00f-4557-9c41-1ca95f680cbf"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -79,11 +72,24 @@
       <option name="presentableId" value="Default" />
       <updated>1731053124651</updated>
       <workItem from="1731053125676" duration="172000" />
-      <workItem from="1732886479470" duration="7165000" />
+      <workItem from="1732886479470" duration="7534000" />
     </task>
+    <task id="LOCAL-00001" summary="chore: init">
+      <option name="closed" value="true" />
+      <created>1732893843064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732893843064</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore: init" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: init" />
   </component>
 </project>

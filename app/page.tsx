@@ -1,7 +1,7 @@
 'use client'
 
 import {useState} from "react";
-import {Center, Checkbox, Flex, Flex1, Flex2, Flex3, FlexCol, FlexCol3, Input, ScrollArea, Xl4} from "next-util-cmps";
+import {Center, Flex, FlexCol, FlexCol3, Input, Xl4} from "next-util-cmps";
 import {GradientInput} from "@/app/components/gradient-input";
 import {convert} from "@/app/logic/gradient";
 import clsx from "clsx";
